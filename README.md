@@ -11,4 +11,4 @@ Scikit-learn - To install Scikit-learn run sudo pip3 install scikit-learn or sud
 ## Usage
 Run using python3 <path_to_repository>/stock_prediction.py or python <path_to_repository>/stock_prediction.py
 ## Credits
-The credits for most of the code goes to Siraj Raval (||Source||)
+The credits for most of the code goes to Siraj Raval (||Source||). However the dataset used was different. This dataset was pulled from nasdaq's website
